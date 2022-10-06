@@ -1,0 +1,7 @@
+.div {
+  max-width: 960px;
+  width: calc(100% - 40px);
+  margin-inline: auto;
+  min-height: 100vh;
+  padding-block: 4rem;
+}
